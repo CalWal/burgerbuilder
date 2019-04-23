@@ -9,7 +9,7 @@ const burger = (props) => {
       <BurgerIngredient type="cheese"/>
       <BurgerIngredient type="meat"/>
       <BurgerIngredient type="bread-bottom"/>
-      <h1>Where is the bottom Bun?!</h1>
+
     </div>
   )
 }
